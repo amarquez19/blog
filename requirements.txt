@@ -1,0 +1,5 @@
+# pip install fastapi
+# pip install "uvicorn[standard]"
+# uvicorn server:app --reload
+fastapi==0.101.0
+uvicorn==0.23.2
